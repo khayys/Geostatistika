@@ -1,1 +1,3 @@
 # Geostatistika
+
+Materi geostatistika UGM 
